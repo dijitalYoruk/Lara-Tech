@@ -70,3 +70,39 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Lara-Tech
+Lara-Tech is a broad technological e-commerce web site project. Two authentication systems are available for admins and clients. 
+2 factor authentication is also implemented from scratch. In this project, clients, admins, products, main categories, sub categories, orders, baskets, profiles, carts, comments and admin panels are available. While implementing this application, 
+PHP, Laravel, Blade, MySQL, Git and Laragon is used. The followings are sample images from the application:
+
+<br>
+
+<img src="README/sample1.png">
+<hr>
+<img src="README/sample2.png">
+<hr>
+<img src="README/sample3.png">
+<hr>
+<img src="README/sample4.png">
+<hr>
+<img src="README/sample5.png">
+<hr>
+<img src="README/sample6.png">
+<hr>
+<img src="README/sample7.png">
+<hr>
+<img src="README/sample8.png">
+<hr>
+<img src="README/sample9.png">
+<hr>
+<img src="README/sample10.png">
+<hr>
+<img src="README/sample11.png">
+<hr>
+<img src="README/sample12.png">
+<hr>
+<img src="README/sample13.png">
+<hr>
+<img src="README/sample14.png">
